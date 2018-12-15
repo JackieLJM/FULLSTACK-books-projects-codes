@@ -1,0 +1,15 @@
+[submodule "CODEs/pro-mern-stack"]
+	path = CODEs/pro-mern-stack
+	url = https://github.com/vasansr/pro-mern-stack.git
+[submodule "CODEs/mern"]
+	path = CODEs/mern
+	url = https://github.com/tech-dojo/mern.git
+[submodule "CODEs/mern-starter"]
+	path = CODEs/mern-starter
+	url = https://github.com/Hashnode/mern-starter.git
+[submodule "CODEs/Mastering-Full-Stack-React-Web-Development"]
+	path = CODEs/Mastering-Full-Stack-React-Web-Development
+	url = https://github.com/PacktPublishing/Mastering-Full-Stack-React-Web-Development.git
+[submodule "CODEs/Gracejs"]
+	path = CODEs/Gracejs
+	url = https://github.com/xiongwilee/Gracejs.git
