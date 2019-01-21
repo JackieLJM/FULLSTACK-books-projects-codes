@@ -13,3 +13,6 @@
 [submodule "CODEs/Gracejs"]
 	path = CODEs/Gracejs
 	url = https://github.com/xiongwilee/Gracejs.git
+[submodule "CODEs/typerx"]
+	path = CODEs/typerx
+	url = https://github.com/vellengs/typerx
