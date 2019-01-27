@@ -16,3 +16,6 @@
 [submodule "CODEs/typerx"]
 	path = CODEs/typerx
 	url = https://github.com/vellengs/typerx
+[submodule "CODEs/nodeclub"]
+	path = CODEs/nodeclub
+	url = https://github.com/cnodejs/nodeclub.git
