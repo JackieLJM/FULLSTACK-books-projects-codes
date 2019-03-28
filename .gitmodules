@@ -19,3 +19,6 @@
 [submodule "CODEs/nodeclub"]
 	path = CODEs/nodeclub
 	url = https://github.com/cnodejs/nodeclub.git
+[submodule "Projects/pwa/react-pwa"]
+	path = Projects/pwa/react-pwa
+	url = https://github.com/Atyantik/react-pwa.git
