@@ -13,6 +13,18 @@
 [submodule "CODEs/Gracejs"]
 	path = CODEs/Gracejs
 	url = https://github.com/xiongwilee/Gracejs.git
+<<<<<<< HEAD
 [submodule "CODEs/Full-Stack-React-Projects"]
 	path = CODEs/Full-Stack-React-Projects
 	url = https://github.com/PacktPublishing/Full-Stack-React-Projects.git
+=======
+[submodule "CODEs/typerx"]
+	path = CODEs/typerx
+	url = https://github.com/vellengs/typerx
+[submodule "CODEs/nodeclub"]
+	path = CODEs/nodeclub
+	url = https://github.com/cnodejs/nodeclub.git
+[submodule "Projects/pwa/react-pwa"]
+	path = Projects/pwa/react-pwa
+	url = https://github.com/Atyantik/react-pwa.git
+>>>>>>> 102d99b7fbcddc405e28fd01c2b7b7d78e6495b8
