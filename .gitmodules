@@ -13,6 +13,9 @@
 [submodule "CODEs/Gracejs"]
 	path = CODEs/Gracejs
 	url = https://github.com/xiongwilee/Gracejs.git
+[submodule "CODEs/Full-Stack-React-Projects"]
+	path = CODEs/Full-Stack-React-Projects
+	url = https://github.com/PacktPublishing/Full-Stack-React-Projects.git
 [submodule "CODEs/typerx"]
 	path = CODEs/typerx
 	url = https://github.com/vellengs/typerx
