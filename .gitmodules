@@ -22,3 +22,15 @@
 [submodule "Projects/pwa/react-pwa"]
 	path = Projects/pwa/react-pwa
 	url = https://github.com/Atyantik/react-pwa.git
+[submodule "Projects/pwa/pawjs"]
+	path = Projects/pwa/pawjs
+	url = https://github.com/Atyantik/pawjs.git
+[submodule "Projects/reactxp/reactxp"]
+	path = Projects/reactxp/reactxp
+	url = https://github.com/microsoft/reactxp
+[submodule "CODEs/TypeScript-React-Native-Starter"]
+	path = CODEs/TypeScript-React-Native-Starter
+	url = https://github.com/Microsoft/TypeScript-React-Native-Starter
+[submodule "CODEs/21-points-react"]
+	path = CODEs/21-points-react
+	url = https://github.com/robmelfi/21-points-react.git
