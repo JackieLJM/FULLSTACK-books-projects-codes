@@ -37,3 +37,6 @@
 [submodule "CODEs/21-points-react"]
 	path = CODEs/21-points-react
 	url = https://github.com/robmelfi/21-points-react.git
+[submodule "CODEs/electron-api-demos"]
+	path = CODEs/electron-api-demos
+	url = https://github.com/electron/electron-api-demos.git
