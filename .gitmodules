@@ -40,3 +40,6 @@
 [submodule "CODEs/electron-api-demos"]
 	path = CODEs/electron-api-demos
 	url = https://github.com/electron/electron-api-demos.git
+[submodule "Projects/tensorflow/TensorFlow-Examples"]
+	path = Projects/tensorflow/TensorFlow-Examples
+	url = https://github.com/aymericdamien/TensorFlow-Examples.git
