@@ -1,0 +1,6 @@
+/**
+ * abc
+ */
+public class abc {
+
+}
