@@ -43,3 +43,6 @@
 [submodule "Projects/tensorflow/TensorFlow-Examples"]
 	path = Projects/tensorflow/TensorFlow-Examples
 	url = https://github.com/aymericdamien/TensorFlow-Examples.git
+[submodule "Projects/velocity-react"]
+	path = Projects/velocity-react
+	url = https://github.com/twitter-fabric/velocity-react.git
