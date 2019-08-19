@@ -43,3 +43,6 @@
 [submodule "Projects/tensorflow/TensorFlow-Examples"]
 	path = Projects/tensorflow/TensorFlow-Examples
 	url = https://github.com/aymericdamien/TensorFlow-Examples.git
+[submodule "Projects/electron-quick-start"]
+	path = Projects/electron-quick-start
+	url = https://github.com/electron/electron-quick-start.git
