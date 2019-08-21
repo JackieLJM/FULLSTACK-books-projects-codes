@@ -46,3 +46,15 @@
 [submodule "Projects/electron-quick-start"]
 	path = Projects/electron-quick-start
 	url = https://github.com/electron/electron-quick-start.git
+[submodule "CODEs/cra-ts-antd"]
+	path = CODEs/cra-ts-antd
+	url = https://github.com/comerc/cra-ts-antd.git
+[submodule "CODEs/react-app-antd-ts"]
+	path = CODEs/react-app-antd-ts
+	url = https://github.com/zqinmiao/react-app-antd-ts.git
+[submodule "CODEs/react-typescript-mobx-antd"]
+	path = CODEs/react-typescript-mobx-antd
+	url = https://github.com/JanasLuo/react-typescript-mobx-antd.git
+[submodule "Projects/electron-antd"]
+	path = Projects/electron-antd
+	url = https://github.com/lanten/electron-antd.git
