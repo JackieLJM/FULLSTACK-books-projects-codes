@@ -42,10 +42,15 @@
 	url = https://github.com/electron/electron-api-demos.git
 [submodule "Projects/tensorflow/TensorFlow-Examples"]
 	path = Projects/tensorflow/TensorFlow-Examples
-	url = https://github.com/aymericdamien/TensorFlow-Examples.git
+
+[submodule "Projects/velocity-react"]
+	path = Projects/velocity-react
+	url = https://github.com/twitter-fabric/velocity-react.git
+
 [submodule "Projects/electron-quick-start"]
 	path = Projects/electron-quick-start
 	url = https://github.com/electron/electron-quick-start.git
+
 [submodule "CODEs/cra-ts-antd"]
 	path = CODEs/cra-ts-antd
 	url = https://github.com/comerc/cra-ts-antd.git
