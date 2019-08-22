@@ -1,0 +1,15 @@
+{
+  "name": "electron_with_python",
+  "version": "1.0.0",
+  "description": "Python + Flask + Electron 项目演示",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Likianta",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.1.3",
+    "python-shell": "^1.0.7"
+  }
+}
