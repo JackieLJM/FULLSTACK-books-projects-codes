@@ -63,3 +63,6 @@
 [submodule "Projects/electron-antd"]
 	path = Projects/electron-antd
 	url = https://github.com/lanten/electron-antd.git
+[submodule "CODEs/grpc"]
+	path = CODEs/grpc
+	url = https://github.com/grpc/grpc.git
